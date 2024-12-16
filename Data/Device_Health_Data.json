@@ -1,0 +1,100 @@
+{"Device_ID":"L69000002","Stability_Index":8.51,"Application_Crashes":"Zoom Video","Incidents":"Unable to login Outlook","CoSA":"ECIO","Job_Class":"NMC","Job_Category":"Data Scientist"}
+{"Device_ID":"L69000003","Stability_Index":8.85,"Application_Crashes":"RAM","Incidents":"Unable to login Outlook","CoSA":"Bank","Job_Class":"NMC","Job_Category":"Member contact"}
+{"Device_ID":"L69000004","Stability_Index":9.22,"Application_Crashes":"No crashes","Incidents":"No incidents","CoSA":"ECIO","Job_Class":"NMC","Job_Category":"Data Engineer"}
+{"Device_ID":"L69000005","Stability_Index":8.63,"Application_Crashes":"Tableau","Incidents":"Showing low memory","CoSA":"Bank","Job_Class":"NMC","Job_Category":"Data Scientist"}
+{"Device_ID":"L69000006","Stability_Index":6.26,"Application_Crashes":"Zoom Video","Incidents":"No incidents","CoSA":"ECIO","Job_Class":"MC","Job_Category":"Developer"}
+{"Device_ID":"L69000007","Stability_Index":4.15,"Application_Crashes":"Zoom Video","Incidents":"Zoom Video crashing","CoSA":"Bank","Job_Class":"NMC","Job_Category":"Data Scientist"}
+{"Device_ID":"L69000008","Stability_Index":6.43,"Application_Crashes":"Tableau","Incidents":"Unable to login Outlook","CoSA":"ECIO","Job_Class":"MC","Job_Category":"Member contact"}
+{"Device_ID":"L69000009","Stability_Index":4.18,"Application_Crashes":"No crashes","Incidents":"Unable to launch Tableau application","CoSA":"Bank","Job_Class":"NMC","Job_Category":"Member contact"}
+{"Device_ID":"L69000010","Stability_Index":4.8,"Application_Crashes":"Zoom Video","Incidents":"Showing low memory","CoSA":"Bank","Job_Class":"MC","Job_Category":"Data Engineer"}
+{"Device_ID":"L69000011","Stability_Index":5.03,"Application_Crashes":"No crashes","Incidents":"Zoom Video crashing","CoSA":"ECIO","Job_Class":"NMC","Job_Category":"Member contact"}
+{"Device_ID":"L69000012","Stability_Index":5.04,"Application_Crashes":"No crashes","Incidents":"Showing low memory","CoSA":"P&C","Job_Class":"MC","Job_Category":"Data Scientist"}
+{"Device_ID":"L69000013","Stability_Index":8.89,"Application_Crashes":"Zoom Video","Incidents":"Zoom Video crashing","CoSA":"P&C","Job_Class":"MC","Job_Category":"Developer"}
+{"Device_ID":"L69000014","Stability_Index":6.66,"Application_Crashes":"Zoom Video","Incidents":"Unable to login Outlook","CoSA":"ECIO","Job_Class":"MC","Job_Category":"Data Engineer"}
+{"Device_ID":"L69000015","Stability_Index":5.87,"Application_Crashes":"Microsoft Outlook","Incidents":"Unable to launch Tableau application","CoSA":"ECIO","Job_Class":"NMC","Job_Category":"Member contact"}
+{"Device_ID":"L69000016","Stability_Index":8.96,"Application_Crashes":"Tableau","Incidents":"Unable to login Outlook","CoSA":"P&C","Job_Class":"MC","Job_Category":"Data Engineer"}
+{"Device_ID":"L69000017","Stability_Index":6.97,"Application_Crashes":"Tableau","Incidents":"Showing low memory","CoSA":"P&C","Job_Class":"MC","Job_Category":"Developer"}
+{"Device_ID":"L69000018","Stability_Index":7.44,"Application_Crashes":"RAM","Incidents":"No incidents","CoSA":"P&C","Job_Class":"NMC","Job_Category":"Developer"}
+{"Device_ID":"L69000019","Stability_Index":6.4,"Application_Crashes":"Tableau","Incidents":"Unable to login Outlook","CoSA":"ECIO","Job_Class":"NMC","Job_Category":"Developer"}
+{"Device_ID":"L69000020","Stability_Index":9.43,"Application_Crashes":"Zoom Video","Incidents":"Unable to launch Tableau application","CoSA":"Bank","Job_Class":"MC","Job_Category":"Data Engineer"}
+{"Device_ID":"L69000021","Stability_Index":7.02,"Application_Crashes":"Zoom Video","Incidents":"Showing low memory","CoSA":"ECIO","Job_Class":"MC","Job_Category":"Member contact"}
+{"Device_ID":"L69000022","Stability_Index":7.58,"Application_Crashes":"Microsoft Outlook","Incidents":"Showing low memory","CoSA":"P&C","Job_Class":"NMC","Job_Category":"Member contact"}
+{"Device_ID":"L69000023","Stability_Index":8.89,"Application_Crashes":"No crashes","Incidents":"Unable to login Outlook","CoSA":"ECIO","Job_Class":"MC","Job_Category":"Data Engineer"}
+{"Device_ID":"L69000024","Stability_Index":4.09,"Application_Crashes":"Microsoft Outlook","Incidents":"Zoom Video crashing","CoSA":"Bank","Job_Class":"MC","Job_Category":"Member contact"}
+{"Device_ID":"L69000025","Stability_Index":7.48,"Application_Crashes":"RAM","Incidents":"Unable to login Outlook","CoSA":"ECIO","Job_Class":"MC","Job_Category":"Data Scientist"}
+{"Device_ID":"L69000026","Stability_Index":6.16,"Application_Crashes":"Zoom Video","Incidents":"No incidents","CoSA":"P&C","Job_Class":"MC","Job_Category":"Member contact"}
+{"Device_ID":"L69000027","Stability_Index":7.89,"Application_Crashes":"RAM","Incidents":"Zoom Video crashing","CoSA":"ECIO","Job_Class":"NMC","Job_Category":"Member contact"}
+{"Device_ID":"L69000028","Stability_Index":5.62,"Application_Crashes":"Microsoft Outlook","Incidents":"No incidents","CoSA":"Bank","Job_Class":"NMC","Job_Category":"Developer"}
+{"Device_ID":"L69000029","Stability_Index":8.05,"Application_Crashes":"Microsoft Outlook","Incidents":"Unable to launch Tableau application","CoSA":"ECIO","Job_Class":"MC","Job_Category":"Member contact"}
+{"Device_ID":"L69000030","Stability_Index":5.29,"Application_Crashes":"RAM","Incidents":"No incidents","CoSA":"ECIO","Job_Class":"MC","Job_Category":"Member contact"}
+{"Device_ID":"L69000031","Stability_Index":7.75,"Application_Crashes":"RAM","Incidents":"No incidents","CoSA":"Bank","Job_Class":"MC","Job_Category":"Data Scientist"}
+{"Device_ID":"L69000032","Stability_Index":8.16,"Application_Crashes":"Tableau","Incidents":"Unable to launch Tableau application","CoSA":"Bank","Job_Class":"NMC","Job_Category":"Data Scientist"}
+{"Device_ID":"L69000033","Stability_Index":8.04,"Application_Crashes":"Zoom Video","Incidents":"No incidents","CoSA":"Bank","Job_Class":"NMC","Job_Category":"Member contact"}
+{"Device_ID":"L69000034","Stability_Index":4.75,"Application_Crashes":"Tableau","Incidents":"Zoom Video crashing","CoSA":"Bank","Job_Class":"MC","Job_Category":"Data Engineer"}
+{"Device_ID":"L69000035","Stability_Index":8.19,"Application_Crashes":"Tableau","Incidents":"Unable to login Outlook","CoSA":"P&C","Job_Class":"NMC","Job_Category":"Member contact"}
+{"Device_ID":"L69000036","Stability_Index":7.82,"Application_Crashes":"RAM","Incidents":"Unable to login Outlook","CoSA":"P&C","Job_Class":"MC","Job_Category":"Developer"}
+{"Device_ID":"L69000037","Stability_Index":5.5,"Application_Crashes":"No crashes","Incidents":"Zoom Video crashing","CoSA":"ECIO","Job_Class":"MC","Job_Category":"Data Scientist"}
+{"Device_ID":"L69000038","Stability_Index":7.06,"Application_Crashes":"Microsoft Outlook","Incidents":"No incidents","CoSA":"P&C","Job_Class":"MC","Job_Category":"Data Engineer"}
+{"Device_ID":"L69000039","Stability_Index":7.48,"Application_Crashes":"Tableau","Incidents":"Unable to login Outlook","CoSA":"ECIO","Job_Class":"MC","Job_Category":"Member contact"}
+{"Device_ID":"L69000040","Stability_Index":6.44,"Application_Crashes":"RAM","Incidents":"Unable to launch Tableau application","CoSA":"Bank","Job_Class":"NMC","Job_Category":"Data Engineer"}
+{"Device_ID":"L69000041","Stability_Index":8.51,"Application_Crashes":"RAM","Incidents":"Unable to launch Tableau application","CoSA":"ECIO","Job_Class":"MC","Job_Category":"Developer"}
+{"Device_ID":"L69000042","Stability_Index":5.98,"Application_Crashes":"Microsoft Outlook","Incidents":"Unable to launch Tableau application","CoSA":"P&C","Job_Class":"MC","Job_Category":"Member contact"}
+{"Device_ID":"L69000043","Stability_Index":7.65,"Application_Crashes":"Microsoft Outlook","Incidents":"Showing low memory","CoSA":"ECIO","Job_Class":"NMC","Job_Category":"Member contact"}
+{"Device_ID":"L69000044","Stability_Index":4.64,"Application_Crashes":"RAM","Incidents":"Unable to launch Tableau application","CoSA":"ECIO","Job_Class":"NMC","Job_Category":"Developer"}
+{"Device_ID":"L69000045","Stability_Index":5.22,"Application_Crashes":"Tableau","Incidents":"No incidents","CoSA":"Bank","Job_Class":"MC","Job_Category":"Developer"}
+{"Device_ID":"L69000046","Stability_Index":4.86,"Application_Crashes":"RAM","Incidents":"Zoom Video crashing","CoSA":"P&C","Job_Class":"MC","Job_Category":"Member contact"}
+{"Device_ID":"L69000047","Stability_Index":4.49,"Application_Crashes":"Zoom Video","Incidents":"No incidents","CoSA":"ECIO","Job_Class":"NMC","Job_Category":"Member contact"}
+{"Device_ID":"L69000048","Stability_Index":8.47,"Application_Crashes":"Microsoft Outlook","Incidents":"Zoom Video crashing","CoSA":"Bank","Job_Class":"MC","Job_Category":"Data Engineer"}
+{"Device_ID":"L69000049","Stability_Index":5.04,"Application_Crashes":"Tableau","Incidents":"Unable to login Outlook","CoSA":"Bank","Job_Class":"NMC","Job_Category":"Data Scientist"}
+{"Device_ID":"L69000050","Stability_Index":6.9,"Application_Crashes":"RAM","Incidents":"Unable to launch Tableau application","CoSA":"ECIO","Job_Class":"NMC","Job_Category":"Developer"}
+{"Device_ID":"L69000051","Stability_Index":5.98,"Application_Crashes":"Zoom Video","Incidents":"Showing low memory","CoSA":"Bank","Job_Class":"MC","Job_Category":"Member contact"}
+{"Device_ID":"L69000052","Stability_Index":9.22,"Application_Crashes":"No crashes","Incidents":"No incidents","CoSA":"P&C","Job_Class":"NMC","Job_Category":"Developer"}
+{"Device_ID":"L69000053","Stability_Index":4.69,"Application_Crashes":"No crashes","Incidents":"Unable to launch Tableau application","CoSA":"Bank","Job_Class":"MC","Job_Category":"Developer"}
+{"Device_ID":"L69000054","Stability_Index":7.97,"Application_Crashes":"Zoom Video","Incidents":"Unable to login Outlook","CoSA":"Bank","Job_Class":"NMC","Job_Category":"Member contact"}
+{"Device_ID":"L69000055","Stability_Index":4.01,"Application_Crashes":"Microsoft Outlook","Incidents":"Unable to launch Tableau application","CoSA":"P&C","Job_Class":"MC","Job_Category":"Developer"}
+{"Device_ID":"L69000056","Stability_Index":4.13,"Application_Crashes":"No crashes","Incidents":"Showing low memory","CoSA":"ECIO","Job_Class":"MC","Job_Category":"Data Scientist"}
+{"Device_ID":"L69000057","Stability_Index":5.73,"Application_Crashes":"Zoom Video","Incidents":"Zoom Video crashing","CoSA":"P&C","Job_Class":"MC","Job_Category":"Member contact"}
+{"Device_ID":"L69000058","Stability_Index":4.69,"Application_Crashes":"No crashes","Incidents":"No incidents","CoSA":"ECIO","Job_Class":"MC","Job_Category":"Data Scientist"}
+{"Device_ID":"L69000059","Stability_Index":4.24,"Application_Crashes":"RAM","Incidents":"Zoom Video crashing","CoSA":"P&C","Job_Class":"MC","Job_Category":"Developer"}
+{"Device_ID":"L69000060","Stability_Index":6.12,"Application_Crashes":"Zoom Video","Incidents":"No incidents","CoSA":"Bank","Job_Class":"NMC","Job_Category":"Developer"}
+{"Device_ID":"L69000061","Stability_Index":8.97,"Application_Crashes":"Zoom Video","Incidents":"Unable to login Outlook","CoSA":"Bank","Job_Class":"MC","Job_Category":"Data Scientist"}
+{"Device_ID":"L69000062","Stability_Index":6.74,"Application_Crashes":"No crashes","Incidents":"Zoom Video crashing","CoSA":"P&C","Job_Class":"MC","Job_Category":"Developer"}
+{"Device_ID":"L69000063","Stability_Index":7.74,"Application_Crashes":"Tableau","Incidents":"Unable to login Outlook","CoSA":"P&C","Job_Class":"MC","Job_Category":"Member contact"}
+{"Device_ID":"L69000064","Stability_Index":4.24,"Application_Crashes":"No crashes","Incidents":"Unable to launch Tableau application","CoSA":"Bank","Job_Class":"MC","Job_Category":"Data Engineer"}
+{"Device_ID":"L69000065","Stability_Index":4.36,"Application_Crashes":"Zoom Video","Incidents":"Zoom Video crashing","CoSA":"ECIO","Job_Class":"MC","Job_Category":"Developer"}
+{"Device_ID":"L69000066","Stability_Index":7.4,"Application_Crashes":"No crashes","Incidents":"Zoom Video crashing","CoSA":"ECIO","Job_Class":"NMC","Job_Category":"Member contact"}
+{"Device_ID":"L69000067","Stability_Index":7.76,"Application_Crashes":"No crashes","Incidents":"Unable to login Outlook","CoSA":"P&C","Job_Class":"MC","Job_Category":"Data Scientist"}
+{"Device_ID":"L69000068","Stability_Index":5.26,"Application_Crashes":"RAM","Incidents":"Unable to launch Tableau application","CoSA":"Bank","Job_Class":"NMC","Job_Category":"Member contact"}
+{"Device_ID":"L69000069","Stability_Index":4.63,"Application_Crashes":"RAM","Incidents":"No incidents","CoSA":"Bank","Job_Class":"NMC","Job_Category":"Data Engineer"}
+{"Device_ID":"L69000070","Stability_Index":8.66,"Application_Crashes":"Tableau","Incidents":"Showing low memory","CoSA":"ECIO","Job_Class":"MC","Job_Category":"Data Scientist"}
+{"Device_ID":"L69000071","Stability_Index":5.79,"Application_Crashes":"Microsoft Outlook","Incidents":"No incidents","CoSA":"ECIO","Job_Class":"MC","Job_Category":"Data Engineer"}
+{"Device_ID":"L69000072","Stability_Index":6.56,"Application_Crashes":"Tableau","Incidents":"Showing low memory","CoSA":"Bank","Job_Class":"MC","Job_Category":"Developer"}
+{"Device_ID":"L69000073","Stability_Index":4.2,"Application_Crashes":"Tableau","Incidents":"Unable to launch Tableau application","CoSA":"P&C","Job_Class":"NMC","Job_Category":"Data Engineer"}
+{"Device_ID":"L69000074","Stability_Index":8.15,"Application_Crashes":"RAM","Incidents":"No incidents","CoSA":"P&C","Job_Class":"NMC","Job_Category":"Member contact"}
+{"Device_ID":"L69000075","Stability_Index":6.79,"Application_Crashes":"Zoom Video","Incidents":"Showing low memory","CoSA":"ECIO","Job_Class":"NMC","Job_Category":"Data Scientist"}
+{"Device_ID":"L69000076","Stability_Index":7.39,"Application_Crashes":"Zoom Video","Incidents":"Zoom Video crashing","CoSA":"ECIO","Job_Class":"NMC","Job_Category":"Data Scientist"}
+{"Device_ID":"L69000077","Stability_Index":8.42,"Application_Crashes":"No crashes","Incidents":"Unable to launch Tableau application","CoSA":"ECIO","Job_Class":"MC","Job_Category":"Data Engineer"}
+{"Device_ID":"L69000078","Stability_Index":4.96,"Application_Crashes":"Tableau","Incidents":"Unable to login Outlook","CoSA":"ECIO","Job_Class":"MC","Job_Category":"Data Scientist"}
+{"Device_ID":"L69000079","Stability_Index":7.46,"Application_Crashes":"Microsoft Outlook","Incidents":"No incidents","CoSA":"P&C","Job_Class":"MC","Job_Category":"Data Scientist"}
+{"Device_ID":"L69000080","Stability_Index":5.48,"Application_Crashes":"Tableau","Incidents":"Unable to login Outlook","CoSA":"P&C","Job_Class":"MC","Job_Category":"Data Scientist"}
+{"Device_ID":"L69000081","Stability_Index":7.24,"Application_Crashes":"Tableau","Incidents":"No incidents","CoSA":"Bank","Job_Class":"NMC","Job_Category":"Member contact"}
+{"Device_ID":"L69000082","Stability_Index":5.66,"Application_Crashes":"Zoom Video","Incidents":"Unable to login Outlook","CoSA":"Bank","Job_Class":"MC","Job_Category":"Member contact"}
+{"Device_ID":"L69000083","Stability_Index":9.0,"Application_Crashes":"No crashes","Incidents":"Unable to login Outlook","CoSA":"P&C","Job_Class":"NMC","Job_Category":"Developer"}
+{"Device_ID":"L69000084","Stability_Index":4.63,"Application_Crashes":"Tableau","Incidents":"Showing low memory","CoSA":"Bank","Job_Class":"MC","Job_Category":"Member contact"}
+{"Device_ID":"L69000085","Stability_Index":5.45,"Application_Crashes":"Microsoft Outlook","Incidents":"Showing low memory","CoSA":"ECIO","Job_Class":"MC","Job_Category":"Member contact"}
+{"Device_ID":"L69000086","Stability_Index":4.31,"Application_Crashes":"RAM","Incidents":"Showing low memory","CoSA":"ECIO","Job_Class":"NMC","Job_Category":"Developer"}
+{"Device_ID":"L69000087","Stability_Index":5.5,"Application_Crashes":"Zoom Video","Incidents":"No incidents","CoSA":"P&C","Job_Class":"MC","Job_Category":"Data Engineer"}
+{"Device_ID":"L69000088","Stability_Index":6.3,"Application_Crashes":"RAM","Incidents":"Zoom Video crashing","CoSA":"Bank","Job_Class":"MC","Job_Category":"Data Scientist"}
+{"Device_ID":"L69000089","Stability_Index":8.91,"Application_Crashes":"No crashes","Incidents":"No incidents","CoSA":"ECIO","Job_Class":"NMC","Job_Category":"Data Engineer"}
+{"Device_ID":"L69000090","Stability_Index":4.55,"Application_Crashes":"Zoom Video","Incidents":"Zoom Video crashing","CoSA":"Bank","Job_Class":"NMC","Job_Category":"Data Scientist"}
+{"Device_ID":"L69000091","Stability_Index":4.6,"Application_Crashes":"Tableau","Incidents":"Unable to launch Tableau application","CoSA":"P&C","Job_Class":"NMC","Job_Category":"Member contact"}
+{"Device_ID":"L69000092","Stability_Index":8.9,"Application_Crashes":"Microsoft Outlook","Incidents":"Zoom Video crashing","CoSA":"P&C","Job_Class":"NMC","Job_Category":"Member contact"}
+{"Device_ID":"L69000093","Stability_Index":9.36,"Application_Crashes":"No crashes","Incidents":"Showing low memory","CoSA":"ECIO","Job_Class":"MC","Job_Category":"Developer"}
+{"Device_ID":"L69000094","Stability_Index":5.42,"Application_Crashes":"RAM","Incidents":"No incidents","CoSA":"Bank","Job_Class":"NMC","Job_Category":"Data Engineer"}
+{"Device_ID":"L69000095","Stability_Index":7.67,"Application_Crashes":"No crashes","Incidents":"Zoom Video crashing","CoSA":"Bank","Job_Class":"MC","Job_Category":"Developer"}
+{"Device_ID":"L69000096","Stability_Index":4.56,"Application_Crashes":"No crashes","Incidents":"Unable to login Outlook","CoSA":"P&C","Job_Class":"NMC","Job_Category":"Member contact"}
+{"Device_ID":"L69000097","Stability_Index":5.47,"Application_Crashes":"Zoom Video","Incidents":"No incidents","CoSA":"Bank","Job_Class":"NMC","Job_Category":"Data Scientist"}
+{"Device_ID":"L69000098","Stability_Index":8.53,"Application_Crashes":"No crashes","Incidents":"Unable to launch Tableau application","CoSA":"Bank","Job_Class":"MC","Job_Category":"Data Scientist"}
+{"Device_ID":"L69000099","Stability_Index":8.19,"Application_Crashes":"No crashes","Incidents":"No incidents","CoSA":"P&C","Job_Class":"MC","Job_Category":"Member contact"}
+{"Device_ID":"L69000100","Stability_Index":6.72,"Application_Crashes":"Zoom Video","Incidents":"Unable to login Outlook","CoSA":"P&C","Job_Class":"MC","Job_Category":"Data Engineer"}
+{"Device_ID":"L69000101","Stability_Index":6.75,"Application_Crashes":"Tableau","Incidents":"Unable to launch Tableau application","CoSA":"ECIO","Job_Class":"MC","Job_Category":"Data Engineer"}

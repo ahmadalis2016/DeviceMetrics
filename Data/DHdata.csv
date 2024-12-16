@@ -1,0 +1,126 @@
+DeviceID,StabilityIndex,ApplicationCrashes,Incidents
+L6900001,8,No crashes,No incidents
+L6900002,8,No crashes,Zoom video stopping
+L6900003,8,RAM,Microsoft Outlook not responding
+L6900004,8.6,No crashes,No incidents
+L6900005,6.5,Microsoft Outlook,Zoom video stopping
+L6900006,6.2,Microsoft Outlook,Showing low memory
+L6900007,6.9,No crashes,Unable to launch Tableau
+L6900008,9.9,No crashes,No incidents
+L6900009,6.4,Zoom Video,Microsoft Outlook not responding
+L6900010,9.7,No crashes,No incidents
+L6900011,6.2,Zoom Video,Microsoft Outlook not responding
+L6900012,7.5,No crashes,No incidents
+L6900013,9.9,No crashes,No incidents
+L6900014,6,RAM,Unable to launch Tableau
+L6900015,7.3,RAM,Showing low memory
+L6900016,9.9,No crashes,No incidents
+L6900017,6.5,Zoom Video,Zoom video stopping
+L6900018,8.3,RAM,Unable to launch Tableau
+L6900019,9.2,No crashes,No incidents
+L6900020,6.1,Microsoft Outlook,Unable to launch Tableau
+L6900021,6.5,RAM,Showing low memory
+L6900022,6.2,Zoom Video,Unable to launch Tableau
+L6900023,5.1,Zoom Video,No incidents
+L6900024,9.5,No crashes,No incidents
+L6900025,5.8,Tableau,Showing low memory
+L6900026,7.2,Zoom Video,Showing low memory
+L6900027,5.2,Microsoft Outlook,No incidents
+L6900028,5.5,No crashes,Zoom video stopping
+L6900029,7.9,Microsoft Outlook,No incidents
+L6900030,7.7,No crashes,No incidents
+L6900031,8,No crashes,No incidents
+L6900032,6.7,Tableau,Unable to launch Tableau
+L6900033,5.4,RAM,Showing low memory
+L6900034,6.9,No crashes,Microsoft Outlook not responding
+L6900035,9.1,No crashes,No incidents
+L6900036,6,RAM,Unable to launch Tableau
+L6900037,8.7,No crashes,No incidents
+L6900038,7.4,No crashes,No incidents
+L6900039,7.9,No crashes,No incidents
+L6900040,9.9,No crashes,No incidents
+L6900041,9.1,No crashes,No incidents
+L6900042,7.4,Zoom Video,No incidents
+L6900043,6.7,Zoom Video,No incidents
+L6900044,7.6,No crashes,No incidents
+L6900045,9.7,No crashes,No incidents
+L6900046,7,Microsoft Outlook,Showing low memory
+L6900047,6.5,Tableau,Microsoft Outlook not responding
+L6900048,9.8,No crashes,No incidents
+L6900049,5.4,Zoom Video,Zoom video stopping
+L6900050,9.1,No crashes,No incidents
+L6900051,9.9,No crashes,No incidents
+L6900052,7,RAM,Showing low memory
+L6900053,6.3,Microsoft Outlook,Showing low memory
+L6900054,9.1,No crashes,No incidents
+L6900055,10,No crashes,No incidents
+L6900056,9.3,No crashes,No incidents
+L6900057,5.8,RAM,Unable to launch Tableau
+L6900058,5.7,No crashes,No incidents
+L6900059,9.4,No crashes,No incidents
+L6900060,6.7,No crashes,Zoom video stopping
+L6900061,6.8,Tableau,No incidents
+L6900062,8.2,Zoom Video,No incidents
+L6900063,5.4,Tableau,Microsoft Outlook not responding
+L6900064,5.7,Zoom Video,Showing low memory
+L6900065,9.1,No crashes,No incidents
+L6900066,8.5,RAM,Microsoft Outlook not responding
+L6900067,7.2,RAM,No incidents
+L6900068,8.2,No crashes,No incidents
+L6900069,5.5,RAM,Unable to launch Tableau
+L6900070,6.1,RAM,Showing low memory
+L6900071,8.3,Tableau,Microsoft Outlook not responding
+L6900072,8.8,No crashes,No incidents
+L6900073,9.6,No crashes,No incidents
+L6900074,5.6,Tableau,Microsoft Outlook not responding
+L6900075,8.9,No crashes,No incidents
+L6900076,8.5,Tableau,Unable to launch Tableau
+L6900077,7.3,No crashes,No incidents
+L6900078,6.2,No crashes,Showing low memory
+L6900079,5.1,Microsoft Outlook,Microsoft Outlook not responding
+L6900080,9.9,No crashes,No incidents
+L6900081,6.3,Zoom Video,Microsoft Outlook not responding
+L6900082,8.3,No crashes,No incidents
+L6900083,8.7,No crashes,No incidents
+L6900084,5.8,Microsoft Outlook,No incidents
+L6900085,5.9,No crashes,No incidents
+L6900086,9.5,No crashes,No incidents
+L6900087,8.6,No crashes,No incidents
+L6900088,9.6,No crashes,No incidents
+L6900089,5.5,Zoom Video,Zoom video stopping
+L6900090,6.7,Tableau,No incidents
+L6900091,7.6,Microsoft Outlook,Unable to launch Tableau
+L6900092,6.3,Microsoft Outlook,Microsoft Outlook not responding
+L6900093,6.3,Tableau,No incidents
+L6900094,7.2,No crashes,No incidents
+L6900095,8.4,No crashes,No incidents
+L6900096,9.3,No crashes,No incidents
+L6900097,7.5,No crashes,Unable to launch Tableau
+L6900098,5.8,No crashes,Microsoft Outlook not responding
+L6900099,5.1,RAM,Showing low memory
+L6900100,10,No crashes,No incidents
+L6900101,8.9,No crashes,No incidents
+L6900102,8.6,No crashes,No incidents
+L6900103,9.8,No crashes,No incidents
+L6900104,5.9,Microsoft Outlook,Unable to launch Tableau
+L6900105,9,No crashes,No incidents
+L6900106,7.4,RAM,Microsoft Outlook not responding
+L6900107,9.9,No crashes,No incidents
+L6900108,9.9,No crashes,No incidents
+L6900109,5.8,Zoom Video,Unable to launch Tableau
+L6900110,8.5,Zoom Video,No incidents
+L6900111,5.6,Tableau,No incidents
+L6900112,6,Zoom Video,Showing low memory
+L6900113,8.1,No crashes,Zoom video stopping
+L6900114,6.2,No crashes,No incidents
+L6900115,7.5,Zoom Video,Unable to launch Tableau
+L6900116,5.3,RAM,Unable to launch Tableau
+L6900117,9,No crashes,No incidents
+L6900118,6.4,Tableau,No incidents
+L6900119,5.3,Tableau,Zoom video stopping
+L6900120,8.5,Tableau,Unable to launch Tableau
+L6900121,5.4,No crashes,Showing low memory
+L6900122,8.7,No crashes,No incidents
+L6900123,9.7,No crashes,No incidents
+L6900124,9.8,No crashes,No incidents
+L6900125,7.9,No crashes,Showing low memory
